@@ -22,4 +22,4 @@ Start exploring, learning, and contributing today!
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/java-dsa-repository.git
+git clone https://github.com/warundev/DSA--JAVA.git

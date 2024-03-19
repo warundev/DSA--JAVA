@@ -1,4 +1,4 @@
-**Linear Search Algorithm**
+***Linear Search Algorithm***
 
 Linear search is a straightforward searching algorithm that sequentially checks each element in a collection until a match is found or the entire collection has been traversed.
 

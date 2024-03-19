@@ -1,0 +1,38 @@
+--> Linear Search Algorithm
+
+Welcome to your first Data Structures and Algorithms (DSA) code! Today, we're diving into the world of linear search, a fundamental algorithm used to find a target value within a list or array.
+
+--> What is Linear Search?
+
+Linear search, also known as sequential search, is a simple method for finding a target value within a collection of items. It works by sequentially checking each element in the list until the target element is found or until all elements have been checked.
+
+--> How Does it Work?
+
+Start at the beginning of the list.
+Compare the target value with each element of the list sequentially.
+If the target value matches an element, return the index of that element.
+If the target value is not found after checking all elements, return a "not found" indication.
+
+--> Example:
+
+Let's say we have an array [4, 8, 15, 16, 23, 42] and we want to find the index of the value 15.
+
+Start at the beginning:
+Compare 4 with 15 (no match).
+Compare 8 with 15 (no match).
+Compare 15 with 15 (match found!).
+Return the index of 15, which is 2.
+
+--> Pseudocode:
+
+function linearSearch(array, target):
+    for each element in the array:
+        if element equals target:
+            return index of element
+    return "not found"
+
+--> Conclusion:
+
+Linear search is a simple yet effective algorithm for finding elements within a list. While it may not be the most efficient for large datasets, it's a great starting point for understanding basic search algorithms in DSA.
+
+Happy coding!

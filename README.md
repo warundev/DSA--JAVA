@@ -1,3 +1,6 @@
+![data structure and algorithms in java](https://github.com/warundev/DSA--JAVA/assets/120333797/603a86e7-d75d-48a9-9115-048dbfc716c4)
+
+
 # Java Data Structures and Algorithms Repository
 
 Welcome to the Java Data Structures and Algorithms Repository! This repository is dedicated to providing comprehensive implementations of fundamental data structures and algorithms in Java. Whether you're a beginner looking to learn or an experienced developer seeking efficient solutions, you'll find a wealth of resources here to enhance your understanding and proficiency in DSA.
@@ -22,4 +25,4 @@ Start exploring, learning, and contributing today!
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/java-dsa-repository.git
+git clone https://github.com/warundev/DSA--JAVA.git
